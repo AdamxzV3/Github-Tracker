@@ -1,4 +1,4 @@
-# GitHub Repository Information
+# GitHub Repository Information Tool
 
 👨‍💻 Made By CodePulse 
 
